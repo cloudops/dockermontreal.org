@@ -34,7 +34,7 @@ paginatePath = "page"
     highlight = "default"
 
     # Google Analytics.
-    googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = "UA-73360857-1"
 
     # Sidebar social links.
     github = "cloud-ca" # Your Github profile ID
