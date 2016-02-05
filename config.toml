@@ -1,4 +1,4 @@
-baseurl = "http://www.dockermontreal.org/"
+baseurl = "http://dockermontreal.org/"
 languageCode = "en-us"
 title = "DockerMontreal.org"
 theme = "hugo-bootstrap"
