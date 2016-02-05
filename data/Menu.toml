@@ -1,0 +1,16 @@
+#[posts]
+#    Name = "Meetups"
+#    IconClass = "fa-calendar"
+#    Title = "Meetup and events"
+#    URL = "/post"
+
+[tags]
+    Name = "Tags"
+    IconClass = "fa-tags"
+    Title = "Show list of tags"
+    URL = "/tags"
+
+[who]
+    Name = "About Us"
+    IconClass = "fa-info"
+    URL = "/about"
