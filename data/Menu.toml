@@ -4,8 +4,14 @@
 #    Title = "Meetup and events"
 #    URL = "/post/"
 
-[tags]
-    Name = "Tags"
+[talk]
+    Name = "Submit a talk"
+    IconClass = "fa-commenting-o"
+    Title = "Submit a talk"
+    URL = "http://goo.gl/forms/IO2gvxbiSM"
+
+[themes]
+    Name = "Themes"
     IconClass = "fa-tags"
     Title = "Show list of tags"
     URL = "/tags/"

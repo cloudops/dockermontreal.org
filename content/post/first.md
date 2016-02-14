@@ -1,6 +1,6 @@
 +++
 date   = "2015-03-11"
-draft  = true
+draft  = false
 title  = "Montreal Docker Meetup #1"
 tags   = [ "meetup" ]
 topics = [ "meetup" ]
