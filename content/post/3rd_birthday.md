@@ -1,7 +1,7 @@
 +++
 date   = "2016-03-22T17:30:00"
 place = "Centre cloud.ca"
-lastmod = "2016-02-12"
+lastmod = "2016-03-09"
 draft  = false
 title  = "Docker Birthday #3 Celebration + Training"
 tags   = [ "meetup" ]
@@ -17,12 +17,12 @@ who understand the Docker platform to answer any questions that newcomers may ha
 
 ## Agenda: 
 
-5:30 - Doors Open 
-5:45 - Welcome message, presentation of Docker & snacks 
-6:00 - Training begins 
-6:00 to 7:30 - Learning Docker with Birthday App 
-7:30 to 8:30 - Begin working on hands-on labs 
-8:30 - Cake and socializing
+* 5:30 - Doors Open 
+* 5:45 - Welcome message, presentation of Docker & snacks 
+* 6:00 - Training begins 
+* 6:00 to 7:30 - Learning Docker with Birthday App 
+* 7:30 to 8:30 - Begin working on hands-on labs 
+* 8:30 - Cake and socializing
 
 As we get closer to the event, we will share more information including materials on how to prepare for the training.
 
