@@ -1,3 +1,12 @@
++++
+date   = "2016-09-21T17:30:00"
+draft  = false
+title  = "Montreal Docker Meetup #6"
+place = "Centre cloud.ca"
+tags   = [ "meetup" ]
+topics = [ "meetup" ]
++++
+
 Join us for our next meetup. There will be two talks, food, drinks and networking. Merci à Hibernum, notre commanditaire pour ce meetup.  
 http://www.meetup.com/Docker-Montreal/events/233973090/
 1) "Docker 1.12 et le nouveau Swarm mode" par Brice Argenson, Développeur sénior chez CleverToday. 30 min.
