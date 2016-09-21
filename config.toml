@@ -2,6 +2,7 @@ baseurl = "http://dockermontreal.org/"
 languageCode = "en-us"
 title = "DockerMontreal.org"
 theme = "hugo-bootstrap"
+disqusShortname = "Docker Montreal User Group"
 
 # Pagination
 paginate = 10
